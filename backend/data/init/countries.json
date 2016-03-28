@@ -1,0 +1,5 @@
+[
+    { "name" : "Canada", "code" : "CAN", "_id" : "CAN" },
+    { "name" : "Mexico", "code" : "MEX", "_id" : "MEX" },
+    { "name" : "United States", "code" : "USA", "_id" : "USA" }
+]
